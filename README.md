@@ -39,6 +39,3 @@ Contributions
 
 Contributions are welcome! If you have any ideas or suggestions for further analysis, please open an issue or submit a pull request.
 
-License
-
-This repository is licensed under the MIT License. See LICENSE for details.
